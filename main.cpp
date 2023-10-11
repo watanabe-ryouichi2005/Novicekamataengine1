@@ -33,6 +33,8 @@ int WINAPI WinMain(HINSTANCE, HINSTANCE, LPSTR, int) {
 		/// ↓描画処理ここから
 		///
 		Novice::ScreenPrintf(0, 0, "Heroworld変更");
+		Novice::ScreenPrintf(0, 0, "日付10月11日");
+
 		///
 		/// ↑描画処理ここまで
 		///
