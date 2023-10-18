@@ -34,7 +34,8 @@ int WINAPI WinMain(HINSTANCE, HINSTANCE, LPSTR, int) {
 		///
 		Novice::ScreenPrintf(0, 0, "Heroworld変更");
 		Novice::ScreenPrintf(0, 0, "日付10月11日");
-		Novice::DrawBox(0, 0, 0, 0, 0.0f,  BLUE, kFillModeSolid);
+		Novice::DrawBox(	50, 50, 0, 0, 0.0f,  BLUE, kFillModeSolid);
+
 		///
 		/// ↑描画処理ここまで
 		///
